@@ -1,5 +1,11 @@
 {
   "cities": [
+    {
+      "id": "79",
+      "name": "Thành phố Hồ Chí Minh",
+      "type": "Thành phố Trung ương",
+      "slug": "HOCHIMINH"
+    },
     { "id": "01", "name": "Thành phố Hà Nội", "type": "Thành phố Trung ương", "slug": "HANOI" },
     { "id": "02", "name": "Tỉnh Hà Giang", "type": "Tỉnh", "slug": "HAGIANG" },
     { "id": "04", "name": "Tỉnh Cao Bằng", "type": "Tỉnh", "slug": "CAOBANG" },
@@ -59,12 +65,6 @@
     { "id": "74", "name": "Tỉnh Bình Dương", "type": "Tỉnh", "slug": "BINHDUONG" },
     { "id": "75", "name": "Tỉnh Đồng Nai", "type": "Tỉnh", "slug": "DONGNAI" },
     { "id": "77", "name": "Tỉnh Bà Rịa - Vũng Tàu", "type": "Tỉnh", "slug": "BARIAVUNGTAU" },
-    {
-      "id": "79",
-      "name": "Thành phố Hồ Chí Minh",
-      "type": "Thành phố Trung ương",
-      "slug": "HOCHIMINH"
-    },
     { "id": "80", "name": "Tỉnh Long An", "type": "Tỉnh", "slug": "LONGAN" },
     { "id": "82", "name": "Tỉnh Tiền Giang", "type": "Tỉnh", "slug": "TIENGIANG" },
     { "id": "83", "name": "Tỉnh Bến Tre", "type": "Tỉnh", "slug": "BENTRE" },
